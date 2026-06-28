@@ -1,7 +1,8 @@
-#profile-title: SecureVPN 28.06.2026 16:30 | Автообновление - 12ч.
+#profile-title: SecureVPN
 #profile-update-interval: 12
 #total: 0
-#expire: 01.07.2026
+#expire: 31.12.2026
+#remarks: Продлить подписку в нашем боте: @SecureDaVpnBot
 
 vless://c05e4668-fa04-451e-98c4-4cee35b50513@nde.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=abalak.su#🇩🇪 Германия
 vless://c05e4668-fa04-451e-98c4-4cee35b50513@pin.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=g-u.su#🇷🇺 Россия
